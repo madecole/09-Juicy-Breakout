@@ -1,2 +1,2 @@
-# 09-Juicy-Breakout
-This is a game of breakout. 
+# Project-Template-Godot
+A generic template for a Godot project
