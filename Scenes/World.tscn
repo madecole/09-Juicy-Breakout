@@ -1,4 +1,4 @@
-[gd_scene load_steps=12 format=2]
+[gd_scene load_steps=13 format=2]
 
 [ext_resource path="res://Scripts/World.gd" type="Script" id=1]
 [ext_resource path="res://Assets/OstrichSans-Heavy.otf" type="DynamicFontData" id=2]
@@ -8,6 +8,7 @@
 [ext_resource path="res://Assets/paddle.png" type="Texture" id=6]
 [ext_resource path="res://Scenes/Ball.tscn" type="PackedScene" id=7]
 [ext_resource path="res://Scenes/Tile.tscn" type="PackedScene" id=8]
+[ext_resource path="res://Assets/nebula.jpg" type="Texture" id=9]
 
 [sub_resource type="DynamicFont" id=1]
 size = 18
@@ -295,3 +296,10 @@ position = Vector2( 772, 384 )
 
 [node name="Tile11" parent="Tiles/Yellow Tiles" instance=ExtResource( 8 )]
 position = Vector2( 840, 384 )
+
+[node name="ParallaxBackground" type="ParallaxBackground" parent="."]
+
+[node name="nebula" type="Sprite" parent="ParallaxBackground"]
+position = Vector2( 510.793, 278.557 )
+scale = Vector2( 0.575258, 0.609562 )
+texture = ExtResource( 9 )

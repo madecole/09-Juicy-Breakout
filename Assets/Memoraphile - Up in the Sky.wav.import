@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Memoraphile - Up in the Sky.wav-7c0843b50f4aa72a58cc65d0213f850d.sample"
+
+[deps]
+
+source_file="res://Assets/Memoraphile - Up in the Sky.wav"
+dest_files=[ "res://.import/Memoraphile - Up in the Sky.wav-7c0843b50f4aa72a58cc65d0213f850d.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
