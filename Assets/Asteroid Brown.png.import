@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ball8.png-2491cf93dfd76af061cab96a338f83ef.stex"
+path="res://.import/Asteroid Brown.png-b89c167ff09030b91dfdb1a23031c16d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/ball8.png"
-dest_files=[ "res://.import/ball8.png-2491cf93dfd76af061cab96a338f83ef.stex" ]
+source_file="res://Assets/Asteroid Brown.png"
+dest_files=[ "res://.import/Asteroid Brown.png-b89c167ff09030b91dfdb1a23031c16d.stex" ]
 
 [params]
 

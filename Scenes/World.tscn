@@ -300,6 +300,6 @@ position = Vector2( 840, 384 )
 [node name="ParallaxBackground" type="ParallaxBackground" parent="."]
 
 [node name="nebula" type="Sprite" parent="ParallaxBackground"]
-position = Vector2( 510.793, 278.557 )
-scale = Vector2( 0.575258, 0.609562 )
+position = Vector2( 512.007, 267.637 )
+scale = Vector2( 0.575663, 0.590148 )
 texture = ExtResource( 9 )

@@ -1,7 +1,7 @@
 [gd_scene load_steps=5 format=2]
 
 [ext_resource path="res://Scripts/ball.gd" type="Script" id=1]
-[ext_resource path="res://Assets/ball8.png" type="Texture" id=2]
+[ext_resource path="res://Assets/Asteroid Brown.png" type="Texture" id=2]
 
 [sub_resource type="PhysicsMaterial" id=1]
 friction = 0.0
@@ -24,8 +24,8 @@ __meta__ = {
 }
 
 [node name="Sprite" type="Sprite" parent="."]
-position = Vector2( 0.199193, -0.199137 )
-scale = Vector2( 0.192361, 0.192363 )
+position = Vector2( 0.0842403, 0.120765 )
+scale = Vector2( 0.24834, 0.254392 )
 texture = ExtResource( 2 )
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
